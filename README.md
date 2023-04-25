@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seleniusmoell
 - 👀 I’m curious to learn new things
-- 🌱 I’m currently learning react, front-end stuff - backender is my regular trade.
+- 🌱 I'm currently working in java, but dabble in anything I happen upon
 
 <!---
 seleniusmoell/seleniusmoell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
